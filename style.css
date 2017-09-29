@@ -1,3 +1,67 @@
-p{
-	color:red;
+.about_page{
+	background: rgb(230,241,253); 
+    padding-top: 65px;
+    padding-bottom: 60px;
+    border-bottom: gray solid 1px;
+    font-family: fantasy;
+}
+
+.about_para{
+	margin-top: 75px;
+
+
+}
+
+.port_page{
+	background: rgb(247,247,249);
+    margin-left: -16px;
+    margin-right: -15px;
+    padding-bottom: 25px;
+    border-bottom: solid gray 1px;
+}
+
+.port_text p{
+	text-align: center;
+    font-size: 45px;
+    font-family: cursive;
+    color: gray;
+    padding-top: 45px;
+    padding-bottom: 30px;
+}
+
+.img_class{
+	width: 660;
+	border: solid 1px gray;
+	margin-top: 15px;
+}
+.img_row{
+	padding-left: 15px;
+	padding-right: 15px;
+}
+
+.contact_info{
+	text-align: center;
+    font-size: 15px;
+    font-family: fantasy;
+}
+.footer_top{
+	background: rgb(86,86,86); 
+	padding-top: 65px;
+    padding-bottom: 10px;
+    
+    color: white;
+    text-align: center;
+}
+.social_font{
+	color: white;
+}
+
+.fotter_bottom {
+	text-align: center;
+    background: black;
+    padding: 0px;
+    margin: 0px;
+    padding-top: 25px;
+    padding-bottom: 6px;
+    color: white;
 }
